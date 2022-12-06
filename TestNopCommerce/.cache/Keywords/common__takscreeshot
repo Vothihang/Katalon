@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "562C1B3B3D080741F8DEA3114BE0087E",
+  "keywordClasses": [
+    {
+      "name": "common.takscreeshot",
+      "keywordMethods": [
+        {
+          "name": "takeScreeshot",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
