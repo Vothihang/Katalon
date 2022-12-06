@@ -1,0 +1,75 @@
+{
+  "keywordFileContentHash": "CF2F343942737ACC09B5DD23A26DFCB8",
+  "keywordClasses": [
+    {
+      "name": "common.test",
+      "keywordMethods": [
+        {
+          "name": "addProductAny",
+          "parameters": [
+            {
+              "name": "listValue",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.Map",
+                "unresolvedClassName": "Map",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  },
+                  {
+                    "fullClassName": "",
+                    "unresolvedClassName": "",
+                    "isArray": true,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "componentType": {
+                      "fullClassName": "java.lang.Object",
+                      "unresolvedClassName": "Object",
+                      "isArray": false,
+                      "isGnericsPlaceHolder": false,
+                      "hasImmutableClassName": false,
+                      "genericsTypes": [],
+                      "errorOnParsing": false
+                    },
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "addProductInFo",
+          "parameters": [
+            {
+              "name": "map",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
