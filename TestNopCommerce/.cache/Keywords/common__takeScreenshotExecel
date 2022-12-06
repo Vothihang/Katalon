@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "CF227727A5DC85CD44AAF74A29E681BD",
+  "keywordClasses": [
+    {
+      "name": "common.takeScreenshotExecel",
+      "keywordMethods": [
+        {
+          "name": "numberToIndexColumnExcel",
+          "parameters": [
+            {
+              "name": "num",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
