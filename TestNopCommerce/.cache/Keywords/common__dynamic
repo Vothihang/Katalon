@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "BAE143F77564FCBFEADF75C1EE853158",
+  "keywordClasses": [
+    {
+      "name": "common.dynamic",
+      "keywordMethods": [
+        {
+          "name": "dynamicTestObject",
+          "parameters": [
+            {
+              "name": "xpath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "dynamicClass",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
