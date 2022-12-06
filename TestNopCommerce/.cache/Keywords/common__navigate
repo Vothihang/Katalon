@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "76F5BF32972E94D08679511A307B12E1",
+  "keywordClasses": [
+    {
+      "name": "common.navigate",
+      "keywordMethods": [
+        {
+          "name": "navigateRow",
+          "parameters": [
+            {
+              "name": "path",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
