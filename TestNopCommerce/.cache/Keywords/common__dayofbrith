@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "E078546481DD71655659894F0D16D314",
+  "keywordClasses": [
+    {
+      "name": "common.dayofbrith",
+      "keywordMethods": [
+        {
+          "name": "DayOfBrith",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
